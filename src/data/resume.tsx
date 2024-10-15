@@ -10,7 +10,7 @@ export const DATA = {
   description:
     "Software Developer | Python | Salesforce | Network Automation",
   summary:
-    "👋 Hi, I'm Sai Kumaresh, a software developer exploring new challenges in tech.\n\n🎓 Currently pursuing a specialized education in Software Development & Problem Solving at Scaler Academy, class of 2025, with a focus on enhancing coding skills and problem-solving techniques.\n\n💼 I've worked at Wipro, L&T, and BeyondX, focusing on software development and network automation projects.\n\n👨‍💻 At Wipro, I developed and maintained Salesforce applications, improving user experience and streamlining business processes.\n\n🌐 At L&T, I implemented Zero Touch Provisioning and Network Topology Mapper, using Python and various network tools to automate complex network tasks and enhance efficiency.\n\n🖼️ At BeyondX, I developed a GUI for image steganography with encryption and created content related to networking and cybersecurity, showcasing my versatility in both development and content creation.\n\n🔬 My journey includes a research internship at VIT, where I worked on CAPTCHA systems, and various internships in marketing, content creation, and data science, broadening my skill set.\n\n🌟 I bring a diverse skill set to the table, combining technical expertise in Python development with creative writing in the field of content creation.\n\n🚀 After years of diverse experiences, I am now looking for new opportunities to leverage my skills in software development, network automation, and Salesforce.\n\n💡 If you're interested in discussing software development, Python, networking, cybersecurity, or Salesforce, feel free to reach out or email me at saikumaresh007@gmail.com. I'm always open to discussing new projects, opportunities, and collaborations!",
+    "👋 Hi there! I'm Sai Kumaresh, a passionate software developer 🎓 specializing in Software Development & Problem Solving at [Scaler Academy](/#education). 💼 With experience at [Wipro, L&T, and BeyondX](/#work), I've worked on Salesforce applications, automated network tasks 🌐, and developed a GUI for image steganography 🖼️. I'm always eager for new challenges 🚀 and discussions on tech topics like Python, networking, and cybersecurity! 💡 Feel free to connect with me!",
   avatarUrl: "/me.JPG",
   skills: [
     "Python",
@@ -46,17 +46,17 @@ export const DATA = {
 
         navbar: true,
       },
-      X: {
+      Codechef: {
         name: "X",
         url: "https://www.codechef.com/users/saikumaresh007",
-        icon: Icons.x,
+        icon: Icons.codechef,
 
         navbar: true,
       },
-      Youtube: {
+      Medium: {
         name: "Youtube",
         url: "https://medium.com/@saikumaresh",
-        icon: Icons.youtube,
+        icon: Icons.medium,
         navbar: true,
       },
       email: {
@@ -72,116 +72,64 @@ export const DATA = {
   work: [
     {
       company: "Wipro Ltd.",
-      href: "https://atomic.finance",
+      href: "https://www.wipro.com/",
       badges: [],
-      location: "Remote",
-      title: "Bitcoin Protocol Engineer",
-      logoUrl: "/atomic.png",
-      start: "May 2021",
-      end: "Oct 2022",
+      location: "Chennai",
+      title: "Software Developer",
+      logoUrl: "/Wipro.svg",
+      start: "July 2021",
+      end: "March 2024",
       description:
-        "Implemented the Bitcoin discreet log contract (DLC) protocol specifications as an open source Typescript SDK. Dockerized all microservices and setup production kubernetes cluster. Architected a data lake using AWS S3 and Athena for historical backtesting of bitcoin trading strategies. Built a mobile app using react native and typescript.",
+        "- Developed and managed key backend features for a busy web app, focusing on scalability. \n- Created user interface with Salesforce to boost user interaction.\n- Enhanced data retrieval efficiency through optimized queries and query optimization techniques.\n- Collaborated effectively with the development team to ensure efficient data management and system performance.\n- Worked on AMS for Estee Lauder's internal website, improving functionality and user experience.\n- Performed support and development activities to maintain and enhance the internal website's performance.\n- Fixed multiple defects, developed new features, and automated processes, resulting in a 20% increase in overall system efficiency.\n",    
+    },
+    {
+      company: "L&T Smart World & Communication",
+      href: "https://www.larsentoubro.com/corporate/products-and-services/construction/smart-world-communication/",
+      badges: [],
+      location: "Chennai, India",
+      title: "Network Automation Intern",
+      logoUrl: "/lnt.png",
+      start: "January 2021",
+      end: "June 2021",
+      description:
+        "- Implemented Zero Touch Provisioning, Network Topology Mapper, and Root Cause Analysis using Python, GNS3, Netmiko, SSH, OSPF, and Graphviz. \n - Streamlined network provisioning, reducing setup time by 80% through automation scripts and improved network visualization. \n - Optimized OSPF routing in network topology, enhancing efficiency by 15% and reducing potential downtime risks. \n - Learnt about the use of NETCONF, YANG, Python and other tools for network automation. \n",
     },
     {
       company: "BeyondX",
       badges: [],
-      href: "https://shopify.com",
+      href: "https://www.linkedin.com/company/beyondxtec",
       location: "Remote",
-      title: "Software Engineer",
-      logoUrl: "/shopify.svg",
-      start: "January 2021",
-      end: "April 2021",
+      title: "Python Developer/Technical Content",
+      logoUrl: "/beyondx.jpg",
+      start: "June 2020",
+      end: "May 2021",
       description:
-        "Implemented a custom Kubernetes controller in Go to automate the deployment of MySQL and ProxySQL custom resources in order to enable 2,000+ internal developers to instantly deploy their app databases to production. Wrote several scripts in Go to automate MySQL database failovers while maintaining master-slave replication topologies and keeping Zookeeper nodes consistent with changes.",
-    },
-    {
-      company: "Nvidia",
-      href: "https://nvidia.com/",
-      badges: [],
-      location: "Santa Clara, CA",
-      title: "Software Engineer",
-      logoUrl: "/nvidia.png",
-      start: "January 2020",
-      end: "April 2020",
-      description:
-        "Architected and wrote the entire MVP of the GeForce Now Cloud Gaming internal admin and A/B testing dashboard using React, Redux, TypeScript, and Python.",
-    },
-    {
-      company: "Splunk",
-      href: "https://splunk.com",
-      badges: [],
-      location: "San Jose, CA",
-      title: "Software Engineer",
-      logoUrl: "/splunk.svg",
-      start: "January 2019",
-      end: "April 2019",
-      description:
-        "Co-developed a prototype iOS app with another intern in Swift for the new Splunk Phantom security orchestration product (later publicly demoed and launched at .conf annual conference in Las Vegas). Implemented a realtime service for the iOS app in Django (Python) and C++; serialized data using protobufs transmitted over gRPC resulting in an approximate 500% increase in data throughput.",
-    },
-    {
-      company: "Lime",
-      href: "https://li.me/",
-      badges: [],
-      location: "San Francisco, CA",
-      title: "Software Engineer",
-      logoUrl: "/lime.svg",
-      start: "January 2018",
-      end: "April 2018",
-      description:
-        "Proposed and implemented an internal ruby API for sending/receiving commands to scooters over LTE networks. Developed a fully automated bike firmware update system to handle asynchronous firmware updates of over 100,000+ scooters worldwide, and provide progress reports in real-time using React, Ruby on Rails, PostgreSQL and AWS EC2 saving hundreds of developer hours.",
-    },
-    {
-      company: "Mitre Media",
-      href: "https://mitremedia.com/",
-      badges: [],
-      location: "Toronto, ON",
-      title: "Software Engineer",
-      logoUrl: "/mitremedia.png",
-      start: "May 2017",
-      end: "August 2017",
-      description:
-        "Designed and implemented a robust password encryption and browser cookie storage system in Ruby on Rails. Leveraged the Yahoo finance API to develop the dividend.com equity screener",
+        "- Implemented GUI using Tkinter to conceal text in images and extract hidden messages, offering user-selectable output formats. \n - Published Cybersecurity, Networking, and Web Hosting blogs to drive industry engagement and knowledge sharing. [Check it out here](medium.com/@saikumaresh) \n - Oversaw the development, content creation and marketing team of over 5 members, resulting in improved content quality and outreach.",    
     },
   ],
   education: [
     {
-      school: "Scaler Acedemy(Woolf University)",
+      school: "Scaler Academy(Woolf University)",
       href: "https://buildspace.so",
-      degree: "s3, s4, sf1, s5",
-      logoUrl: "/buildspace.jpg",
+      degree: "M.S. Computer Science",
+      logoUrl: "/scaler.jpg",
       start: "2023",
-      end: "2024",
+      end: "2025",
     },
     {
       school: "Vellore Institute of Technology, Chennai",
       href: "https://uwaterloo.ca",
-      degree: "Bachelor's Degree of Computer Science (BCS)",
-      logoUrl: "/waterloo.png",
-      start: "2016",
+      degree: "B.Tech Electronics and Communication",
+      logoUrl: "/vit.png",
+      start: "2017",
       end: "2021",
-    },
-    {
-      school: "Wilfrid Laurier University",
-      href: "https://wlu.ca",
-      degree: "Bachelor's Degree of Business Administration (BBA)",
-      logoUrl: "/laurier.png",
-      start: "2016",
-      end: "2021",
-    },
-    {
-      school: "International Baccalaureate",
-      href: "https://ibo.org",
-      degree: "IB Diploma",
-      logoUrl: "/ib.png",
-      start: "2012",
-      end: "2016",
     },
   ],
   projects: [
     {
-      title: "Network Automation",
-      href: "https://chatcollect.com",
-      dates: "Jan 2024 - Feb 2024",
+      title: "Network Automation with Python",
+      href: "https://github.com/saikumaresh/networkautomation",
+      dates: "Jan 2021 - June 2021",
       active: true,
       description:
         "With the release of the [OpenAI GPT Store](https://openai.com/blog/introducing-the-gpt-store), I decided to build a SaaS which allows users to collect email addresses from their GPT users. This is a great way to build an audience and monetize your GPT API usage.",
@@ -198,13 +146,13 @@ export const DATA = {
       links: [
         {
           type: "Website",
-          href: "https://chatcollect.com",
+          href: "https://github.com/saikumaresh/networkautomation",
           icon: <Icons.globe className="size-3" />,
         },
       ],
       image: "",
       video:
-        "https://pub-83c5db439b40468498f97946200806f7.r2.dev/chat-collect.mp4",
+        "https://www.youtube.com/watch?v=Yg2ciii1YOo",
     },
     {
       title: "Magic UI",
