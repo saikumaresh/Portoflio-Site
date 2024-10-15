@@ -46,15 +46,15 @@ export const DATA = {
 
         navbar: true,
       },
-      Codechef: {
-        name: "X",
+      X: {
+        name: "Codechef",
         url: "https://www.codechef.com/users/saikumaresh007",
         icon: Icons.codechef,
 
         navbar: true,
       },
-      Medium: {
-        name: "Youtube",
+      youtube: {
+        name: "Medium",
         url: "https://medium.com/@saikumaresh",
         icon: Icons.medium,
         navbar: true,
