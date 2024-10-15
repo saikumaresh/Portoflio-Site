@@ -110,7 +110,7 @@ export const DATA = {
   education: [
     {
       school: "Scaler Academy(Woolf University)",
-      href: "https://buildspace.so",
+      href: "https://scaler.com/academy/profile/16240195f69a",
       degree: "M.S. Computer Science",
       logoUrl: "/scaler.png",
       start: "2023",
@@ -118,7 +118,7 @@ export const DATA = {
     },
     {
       school: "Vellore Institute of Technology, Chennai",
-      href: "https://uwaterloo.ca",
+      href: "https://chennai.vit.ac.in/",
       degree: "B.Tech Electronics and Communication",
       logoUrl: "/vit.png",
       start: "2017",
