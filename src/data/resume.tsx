@@ -112,7 +112,7 @@ export const DATA = {
       school: "Scaler Academy(Woolf University)",
       href: "https://buildspace.so",
       degree: "M.S. Computer Science",
-      logoUrl: "/scaler.jpg",
+      logoUrl: "/scaler.png",
       start: "2023",
       end: "2025",
     },
