@@ -68,7 +68,7 @@ export const DATA = {
       },
     },
   },
-
+    
   work: [
     {
       company: "Wipro Ltd.",
