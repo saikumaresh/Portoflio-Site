@@ -10,8 +10,34 @@ export const DATA = {
   description:
     "Software Developer | Python | Salesforce | Network Automation",
   summary:
-    "👋 Hi, I'm Sai Kumaresh, a software developer exploring new challenges in tech."
-    "👋 Hi, I'm Sai Kumaresh, a software developer exploring new challenges in tech.",
+    """
+    👋 Hi, I'm Sai Kumaresh, a software developer exploring new challenges in tech.
+
+    🎓 Currently pursuing a specialized education in Software Development & Problem Solving at Scaler Academy, 
+    class of 2025, with a focus on enhancing coding skills and problem-solving techniques.
+
+    💼 I've worked at Wipro, L&T, and BeyondX, focusing on software development and network automation projects.
+
+    👨‍💻 At Wipro, I developed and maintained Salesforce applications, improving user experience and streamlining business processes.
+
+    🌐 At L&T, I implemented Zero Touch Provisioning and Network Topology Mapper, using Python and various network tools 
+    to automate complex network tasks and enhance efficiency.
+
+    🖼️ At BeyondX, I developed a GUI for image steganography with encryption and created content related to networking 
+    and cybersecurity, showcasing my versatility in both development and content creation.
+
+    🔬 My journey includes a research internship at VIT, where I worked on CAPTCHA systems, and various internships 
+    in marketing, content creation, and data science, broadening my skill set.
+
+    🌟 I bring a diverse skill set to the table, combining technical expertise in Python development with creative writing 
+    in the field of content creation.
+
+    🚀 After years of diverse experiences, I am now looking for new opportunities to leverage my skills in software development, 
+    network automation, and Salesforce.
+
+    💡 If you're interested in discussing software development, Python, networking, cybersecurity, or Salesforce, feel free 
+    to reach out or email me at saikumaresh007@gmail.com. I'm always open to discussing new projects, opportunities, and collaborations!
+    """,
   avatarUrl: "/me.jpg",
   skills: [
     "Python",
