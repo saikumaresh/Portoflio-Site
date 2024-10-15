@@ -45,7 +45,10 @@ export default function Page() {
         </BlurFade>
         <BlurFade delay={BLUR_FADE_DELAY * 4}>
           <Markdown className="prose max-w-full text-pretty font-sans text-sm text-muted-foreground dark:prose-invert">
-            {DATA.summary}
+          <Markdown className="prose max-w-full text-pretty font-sans text-sm text-muted-foreground dark:prose-invert">
+            {DATA.summary.split('. ').map((line, index) => (
+              <div key={index}>{line.trim()}.</div>  {/* Adding a period back if you split on '. ' */}
+            ))}
           </Markdown>
         </BlurFade>
       </section>
@@ -123,9 +126,7 @@ export default function Page() {
                   Check out my latest work
                 </h2>
                 <p className="text-muted-foreground md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
-                  I&apos;ve worked on a variety of projects, from simple
-                  websites to complex web applications. Here are a few of my
-                  favorites.
+                  I&apos;ve worked on a variety of projects, including Automations, Websites and AI. Here are a few of my favorites.
                 </p>
               </div>
             </div>
