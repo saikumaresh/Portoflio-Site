@@ -189,7 +189,7 @@ export const DATA = {
         "An AI Search website with Gemini AI Integration.",
       technologies: [
         "AI",
-        "Vercel",
+        "Netlify",
         "Web Development",
         "HTML,CSS",
         "API",
@@ -209,6 +209,38 @@ export const DATA = {
       ],
       image: "",
       video: "https://www.youtube.com/watch?v=798VKff1v2U",
+    },
+    {
+      title: "Portfolio",
+      href: "https://saikumaresh.vercel.app/",
+      dates: "October 2024 - November 2024",
+      active: true,
+      description:
+        "My portfolio website.",
+      technologies: [
+        "AI",
+        "Vercel",
+        "Web Development",
+        "HTML,CSS",
+        "Magic UI",
+        "React",
+        "Tailwind",
+        "Django",
+      ],
+      links: [
+        {
+          type: "Website",
+          href: "https://saikumaresh.vercel.app/",
+          icon: <Icons.globe className="size-3" />,
+        },
+        {
+          type: "Source",
+          href: "https://github.com/saikumaresh/Steganography",
+          icon: <Icons.github className="size-3" />,
+        },
+      ],
+      image: "",
+      video: "https://www.youtube.com/watch?v=TWEXCYQKyDc",
     },
   ],
 } as const;
