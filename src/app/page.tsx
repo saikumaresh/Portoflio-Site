@@ -45,9 +45,7 @@ export default function Page() {
         </BlurFade>
         <BlurFade delay={BLUR_FADE_DELAY * 4}>
           <Markdown className="prose max-w-full text-pretty font-sans text-sm text-muted-foreground dark:prose-invert">
-            {DATA.summary.split('. ').map((line, index) => (
-              <div key={index}>{line.trim()}.</div>  {/* Adding a period back if you split on '. ' */}
-            ))}
+            {DATA.summary}
           </Markdown>
         </BlurFade>
       </section>
