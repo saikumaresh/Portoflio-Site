@@ -74,6 +74,7 @@ export default function Page() {
                 //description={work.description}
                 description={work.description.split('\n').map((line, index) => (
                   <div key={index}>{line}</div>
+                ))}
               />
             </BlurFade>
           ))}
