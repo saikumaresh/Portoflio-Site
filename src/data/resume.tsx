@@ -11,6 +11,7 @@ export const DATA = {
     "Software Developer | Python | Salesforce | Network Automation",
   summary:
     "👋 Hi, I'm Sai Kumaresh, a software developer exploring new challenges in tech."
+    "👋 Hi, I'm Sai Kumaresh, a software developer exploring new challenges in tech.",
   avatarUrl: "/me.jpg",
   skills: [
     "Python",
