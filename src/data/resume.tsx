@@ -46,14 +46,14 @@ export const DATA = {
 
         navbar: true,
       },
-      X: {
+      Codechef: {
         name: "Codechef",
         url: "https://www.codechef.com/users/saikumaresh007",
         icon: Icons.codechef,
 
         navbar: true,
       },
-      youtube: {
+      Medium: {
         name: "Medium",
         url: "https://medium.com/@saikumaresh",
         icon: Icons.medium,
@@ -80,7 +80,7 @@ export const DATA = {
       start: "July 2021",
       end: "March 2024",
       description:
-        "- Developed and managed key backend features for a busy web app, focusing on scalability. \n- Created user interface with Salesforce to boost user interaction.\n- Enhanced data retrieval efficiency through optimized queries and query optimization techniques.\n- Collaborated effectively with the development team to ensure efficient data management and system performance.\n- Worked on AMS for Estee Lauder's internal website, improving functionality and user experience.\n- Performed support and development activities to maintain and enhance the internal website's performance.\n- Fixed multiple defects, developed new features, and automated processes, resulting in a 20% increase in overall system efficiency.\n",    
+        "- Developed and managed key backend features for a busy web app, focusing on scalability. \n\n - Created user interface with Salesforce to boost user interaction.\n- Enhanced data retrieval efficiency through optimized queries and query optimization techniques.\n- Collaborated effectively with the development team to ensure efficient data management and system performance.\n- Worked on AMS for Estee Lauder's internal website, improving functionality and user experience.\n- Performed support and development activities to maintain and enhance the internal website's performance.\n- Fixed multiple defects, developed new features, and automated processes, resulting in a 20% increase in overall system efficiency.\n",    
     },
     {
       company: "L&T Smart World & Communication",
