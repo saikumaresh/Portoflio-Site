@@ -17,7 +17,7 @@ interface ResumeCardProps {
   href?: string;
   badges?: readonly string[];
   period: string;
-  description?: string;
+  description: React.ReactNode;
 }
 export const ResumeCard = ({
   logoUrl,
