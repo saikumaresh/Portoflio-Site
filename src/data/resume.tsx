@@ -10,7 +10,7 @@ export const DATA = {
   description:
     "Software Developer | Python | Salesforce | Network Automation",
   summary:
-    "👋 Hi, I'm Sai Kumaresh, a software developer exploring new challenges in tech.\n\n🎓 Currently pursuing a specialized education in Software Development & Problem Solving at Scaler Academy, class of 2025, with a focus on enhancing coding skills and problem-solving techniques.\n\n💼 I've worked at Wipro, L&T, and BeyondX, focusing on software development and network automation projects.\n\n👨‍💻 At Wipro, I developed and maintained Salesforce applications, improving user experience and streamlining business processes.\n\n🌐 At L&T, I implemented Zero Touch Provisioning and Network Topology Mapper, using Python and various network tools to automate complex network tasks and enhance efficiency.\n\n🖼️ At BeyondX, I developed a GUI for image steganography with encryption and created content related to networking and cybersecurity, showcasing my versatility in both development and content creation.\n\n🔬 My journey includes a research internship at VIT, where I worked on CAPTCHA systems, and various internships in marketing, content creation, and data science, broadening my skill set.\n\n🌟 I bring a diverse skill set to the table, combining technical expertise in Python development with creative writing in the field of content creation.\n\n🚀 After years of diverse experiences, I am now looking for new opportunities to leverage my skills in software development, network automation, and Salesforce.\n\n💡 If you're interested in discussing software development, Python, networking, cybersecurity, or Salesforce, feel free to reach out or email me at saikumaresh007@gmail.com. I'm always open to discussing new projects, opportunities, and collaborations!"
+    "👋 Hi, I'm Sai Kumaresh, a software developer exploring new challenges in tech.\n\n🎓 Currently pursuing a specialized education in Software Development & Problem Solving at Scaler Academy, class of 2025, with a focus on enhancing coding skills and problem-solving techniques.\n\n💼 I've worked at Wipro, L&T, and BeyondX, focusing on software development and network automation projects.\n\n👨‍💻 At Wipro, I developed and maintained Salesforce applications, improving user experience and streamlining business processes.\n\n🌐 At L&T, I implemented Zero Touch Provisioning and Network Topology Mapper, using Python and various network tools to automate complex network tasks and enhance efficiency.\n\n🖼️ At BeyondX, I developed a GUI for image steganography with encryption and created content related to networking and cybersecurity, showcasing my versatility in both development and content creation.\n\n🔬 My journey includes a research internship at VIT, where I worked on CAPTCHA systems, and various internships in marketing, content creation, and data science, broadening my skill set.\n\n🌟 I bring a diverse skill set to the table, combining technical expertise in Python development with creative writing in the field of content creation.\n\n🚀 After years of diverse experiences, I am now looking for new opportunities to leverage my skills in software development, network automation, and Salesforce.\n\n💡 If you're interested in discussing software development, Python, networking, cybersecurity, or Salesforce, feel free to reach out or email me at saikumaresh007@gmail.com. I'm always open to discussing new projects, opportunities, and collaborations!",
   avatarUrl: "/me.JPG",
   skills: [
     "Python",
@@ -71,7 +71,7 @@ export const DATA = {
 
   work: [
     {
-      company: "Atomic Finance",
+      company: "Wipro Ltd.",
       href: "https://atomic.finance",
       badges: [],
       location: "Remote",
@@ -83,7 +83,7 @@ export const DATA = {
         "Implemented the Bitcoin discreet log contract (DLC) protocol specifications as an open source Typescript SDK. Dockerized all microservices and setup production kubernetes cluster. Architected a data lake using AWS S3 and Athena for historical backtesting of bitcoin trading strategies. Built a mobile app using react native and typescript.",
     },
     {
-      company: "Shopify",
+      company: "BeyondX",
       badges: [],
       href: "https://shopify.com",
       location: "Remote",
@@ -145,7 +145,7 @@ export const DATA = {
   ],
   education: [
     {
-      school: "Buildspace",
+      school: "Scaler Acedemy(Woolf University)",
       href: "https://buildspace.so",
       degree: "s3, s4, sf1, s5",
       logoUrl: "/buildspace.jpg",
@@ -153,7 +153,7 @@ export const DATA = {
       end: "2024",
     },
     {
-      school: "University of Waterloo",
+      school: "Vellore Institute of Technology, Chennai",
       href: "https://uwaterloo.ca",
       degree: "Bachelor's Degree of Computer Science (BCS)",
       logoUrl: "/waterloo.png",
@@ -179,7 +179,7 @@ export const DATA = {
   ],
   projects: [
     {
-      title: "Chat Collect",
+      title: "Network Automation",
       href: "https://chatcollect.com",
       dates: "Jan 2024 - Feb 2024",
       active: true,
