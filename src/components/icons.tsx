@@ -36,10 +36,10 @@ export const Icons = {
       <path d="M29.41,9.26a3.5,3.5,0,0,0-2.47-2.47C24.76,6.2,16,6.2,16,6.2s-8.76,0-10.94.59A3.5,3.5,0,0,0,2.59,9.26,36.13,36.13,0,0,0,2,16a36.13,36.13,0,0,0,.59,6.74,3.5,3.5,0,0,0,2.47,2.47C7.24,25.8,16,25.8,16,25.8s8.76,0,10.94-.59a3.5,3.5,0,0,0,2.47-2.47A36.13,36.13,0,0,0,30,16,36.13,36.13,0,0,0,29.41,9.26ZM13.2,20.2V11.8L20.47,16Z" />
     </svg>
   ),
-  medium: React.FC<IconProps> = ({ width = 32, height = 32, alt = 'Medium Icon', ...props }) => (
+  medium: (props: IconProps) => (
       <svg
-        width={width}
-        height={height}
+      width="32px"
+      height="32px"
         viewBox="0 0 32 32"
         fill="currentColor"
         xmlns="http://www.w3.org/2000/svg"
@@ -49,10 +49,10 @@ export const Icons = {
         <path d="M16 3C8.06 3 2 9.06 2 17c0 7.94 6.06 14 14 14s14-6.06 14-14C30 9.06 23.94 3 16 3zm-1.14 24H9.2l-.6-3h6.12l.6 3zm5.6-12.66l-1.68 1.35c-.64.52-1.04.82-1.5.82-.57 0-.83-.42-.83-.83V16c0-.41.26-.82.8-.82.44 0 .84.36.84.84v.14c0 .1.06.22.2.36l1.19.98c.45.36.54.52.54.73 0 .27-.21.55-.67.55-.47 0-.86-.17-1.24-.5l-1.09-.86zm-7.26 1.77c-.48 0-.86-.39-.86-.86v-4.4c0-.48.39-.86.86-.86h2.32c.48 0 .86.39.86.86v4.4c0 .48-.39.86-.86.86h-2.32z" />
       </svg>
   ),
-  codechef: React.FC<IconProps> = ({ width = 32, height = 32, alt = 'Code Icon', ...props }) => (
+  codechef: (props: IconProps) => (
       <svg
-        width={width}
-        height={height}
+      width="32px"
+      height="32px"
         viewBox="0 0 32 32"
         fill="currentColor"
         xmlns="http://www.w3.org/2000/svg"
