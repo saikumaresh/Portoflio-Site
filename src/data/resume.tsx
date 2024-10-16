@@ -146,9 +146,8 @@ export const DATA = {
           icon: <Icons.globe className="size-3" />,
         },
       ],
-      image: "/scaler.png",
-      video:
-        "https://www.youtube.com/watch?v=Yg2ciii1YOo",
+      image: "/NetworkAutomation.png",
+      video:"",
     },
     {
       title: "Image Steganography",
@@ -177,8 +176,8 @@ export const DATA = {
           icon: <Icons.github className="size-3" />,
         },
       ],
-      image: "",
-      video: "https://youtu.be/-t2fQOBr5Hg",
+      image: "/ImageSteg.png",
+      video: "",
     },
     {
       title: "AI Search",
@@ -207,8 +206,8 @@ export const DATA = {
           icon: <Icons.github className="size-3" />,
         },
       ],
-      image: "",
-      video: "https://www.youtube.com/watch?v=798VKff1v2U",
+      image: "/AI.jpg",
+      video: "",
     },
     {
       title: "Portfolio",
@@ -239,8 +238,8 @@ export const DATA = {
           icon: <Icons.github className="size-3" />,
         },
       ],
-      image: "",
-      video: "https://www.youtube.com/watch?v=TWEXCYQKyDc",
+      image: "/me.jpg",
+      video: "",
     },
   ],
 } as const;
