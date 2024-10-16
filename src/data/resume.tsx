@@ -146,7 +146,7 @@ export const DATA = {
           icon: <Icons.globe className="size-3" />,
         },
       ],
-      image: "",
+      image: "/scaler.png",
       video:
         "https://www.youtube.com/watch?v=Yg2ciii1YOo",
     },
