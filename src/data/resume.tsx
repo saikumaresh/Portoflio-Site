@@ -178,7 +178,7 @@ export const DATA = {
         },
       ],
       image: "",
-      video: "https://www.youtube.com/watch?v=TWEXCYQKyDc",
+      video: "https://youtu.be/-t2fQOBr5Hg",
     },
     {
       title: "AI Search",
