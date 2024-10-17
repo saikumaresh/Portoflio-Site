@@ -10,7 +10,7 @@ export const DATA = {
   description:
     "Software Developer | Python | Salesforce | Network Automation",
   summary:
-    "👋 Hi there! I'm Sai Kumaresh, a passionate software developer 🎓 specializing in Software Development & Problem Solving at [Scaler Academy](/#education). 💼 With experience at [Wipro, L&T, and BeyondX](/#work), I've worked on Salesforce applications, automated network tasks 🌐, and developed a GUI for image steganography 🖼️. I'm always eager for new challenges 🚀 and discussions on tech topics like Python, networking, and cybersecurity! 💡 Feel free to connect with me!",
+    "Hi there! I'm Sai Kumaresh, a passionate software developer specializing in [Software Development & Problem Solving at Scaler Academy](/#education). With [experience at Wipro, L&T, and BeyondX](/#work), I've worked on Salesforce applications, automated network tasks, and developed a GUI for image steganography. I'm always eager for new challenges and discussions on tech topics like Python, networking, and cybersecurity! Feel free to connect with me!",
   avatarUrl: "/me.JPG",
   skills: [
     "Python",
