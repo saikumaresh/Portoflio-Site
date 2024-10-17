@@ -146,7 +146,7 @@ export const DATA = {
           icon: <Icons.globe className="size-3" />,
         },
       ],
-      image: "/NetworkAutomation.png",
+      image: "/networkautomation.jpeg",
       video:"",
     },
     {
@@ -176,7 +176,7 @@ export const DATA = {
           icon: <Icons.github className="size-3" />,
         },
       ],
-      image: "/ImageSteg.png",
+      image: "/imagesteg.jpeg",
       video: "",
     },
     {
@@ -206,7 +206,7 @@ export const DATA = {
           icon: <Icons.github className="size-3" />,
         },
       ],
-      image: "/aiwebsite.png",
+      image: "/aisearch.jpeg",
       video: "",
     },
     {
