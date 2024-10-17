@@ -176,8 +176,8 @@ export const DATA = {
           icon: <Icons.github className="size-3" />,
         },
       ],
-      image: "/imagesteg.jpeg",
-      video: "",
+      image: "",
+      video: "/imagestegvid.mp4",
     },
     {
       title: "AI Search",
