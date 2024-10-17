@@ -146,7 +146,7 @@ export const DATA = {
           icon: <Icons.globe className="size-3" />,
         },
       ],
-      image: "/automation.gif",
+      image: "/automationgif.gif",
       video:"",
     },
     {
