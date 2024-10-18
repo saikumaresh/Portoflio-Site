@@ -101,7 +101,7 @@ export const DATA = {
       start: "June 2020",
       end: "May 2021",
       description:
-        "- Implemented GUI using Tkinter to conceal text in images and extract hidden messages, offering user-selectable output formats. \n - Published Cybersecurity, Networking, and Web Hosting blogs to drive industry engagement and knowledge sharing. [Check it out here](medium.com/@saikumaresh) \n - Oversaw the development, content creation and marketing team of over 5 members, resulting in improved content quality and outreach.",    
+        "- Implemented GUI using Tkinter to conceal text in images and extract hidden messages, offering user-selectable output formats. \n - Published Cybersecurity, Networking, and Web Hosting blogs to drive industry engagement and knowledge sharing. \n - Oversaw the development, content creation and marketing team of over 5 members, resulting in improved content quality and outreach.",    
     },
   ],
   education: [
@@ -238,7 +238,7 @@ export const DATA = {
           icon: <Icons.github className="size-3" />,
         },
       ],
-      image: "/portfolio.png",
+      image: "/portfolio.gif",
       video: "",
     },
   ],
