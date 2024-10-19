@@ -56,7 +56,7 @@ export const DATA = {
         icon: Icons.medium,
         navbar: true,
       },
-      Medium: {
+      Medium1: {
         name: "Medium",
         url: "https://medium.com/@saikumaresh",
         icon: Icons.medium,
