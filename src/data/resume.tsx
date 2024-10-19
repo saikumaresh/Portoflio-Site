@@ -56,10 +56,10 @@ export const DATA = {
         icon: Icons.medium,
         navbar: true,
       },
-      Medium1: {
-        name: "Medium",
-        url: "https://medium.com/@saikumaresh",
-        icon: Icons.medium,
+      Resume: {
+        name: "Resume",
+        url: "https://drive.google.com/file/d/1jM2TxrnyfrB5U3dmMW7wtvdCXALCJBAr/view?usp=sharing",
+        icon: Icons.framermotion,
         navbar: true,
       },
       email: {
