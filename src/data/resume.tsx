@@ -56,6 +56,12 @@ export const DATA = {
         icon: Icons.medium,
         navbar: true,
       },
+      Medium: {
+        name: "Medium",
+        url: "https://medium.com/@saikumaresh",
+        icon: Icons.medium,
+        navbar: true,
+      },
       email: {
         name: "Send Email",
         url: "mailto:saikumaresh007@gmail.com",
