@@ -85,18 +85,6 @@ export const DATA = {
         "- Developed and managed key backend features for a busy web app, focusing on scalability. \n\n - Created user interface with Salesforce to boost user interaction.\n- Enhanced data retrieval efficiency through optimized queries and query optimization techniques.\n- Collaborated effectively with the development team to ensure efficient data management and system performance.\n- Worked on AMS for Estee Lauder's internal website, improving functionality and user experience.\n- Performed support and development activities to maintain and enhance the internal website's performance.\n- Fixed multiple defects, developed new features, and automated processes, resulting in a 20% increase in overall system efficiency.\n",    
     },
     {
-      company: "L&T Smart World & Communication",
-      href: "https://www.larsentoubro.com/corporate/products-and-services/construction/smart-world-communication/",
-      badges: [],
-      location: "Chennai, India",
-      title: "Network Automation Intern",
-      logoUrl: "/lnt.png",
-      start: "January 2021",
-      end: "June 2021",
-      description:
-        "- Implemented Zero Touch Provisioning, Network Topology Mapper, and Root Cause Analysis using Python, GNS3, Netmiko, SSH, OSPF, and Graphviz. \n - Streamlined network provisioning, reducing setup time by 80% through automation scripts and improved network visualization. \n - Optimized OSPF routing in network topology, enhancing efficiency by 15% and reducing potential downtime risks. \n - Learnt about the use of NETCONF, YANG, Python and other tools for network automation. \n",
-    },
-    {
       company: "BeyondX",
       badges: [],
       href: "https://www.linkedin.com/company/beyondxtec",
@@ -107,6 +95,18 @@ export const DATA = {
       end: "May 2021",
       description:
         "- Implemented GUI using Tkinter to conceal text in images and extract hidden messages, offering user-selectable output formats. \n - Published Cybersecurity, Networking, and Web Hosting blogs to drive industry engagement and knowledge sharing. \n - Oversaw the development, content creation and marketing team of over 5 members, resulting in improved content quality and outreach.",    
+    },
+    {
+      company: "L&T Smart World & Communication",
+      href: "https://www.larsentoubro.com/corporate/products-and-services/construction/smart-world-communication/",
+      badges: [],
+      location: "Chennai, India",
+      title: "Network Automation Intern",
+      logoUrl: "/lnt.png",
+      start: "January 2021",
+      end: "June 2021",
+      description:
+        "- Implemented Zero Touch Provisioning, Network Topology Mapper, and Root Cause Analysis using Python, GNS3, Netmiko, SSH, OSPF, and Graphviz. \n - Streamlined network provisioning, reducing setup time by 80% through automation scripts and improved network visualization. \n - Optimized OSPF routing in network topology, enhancing efficiency by 15% and reducing potential downtime risks. \n - Learnt about the use of NETCONF, YANG, Python and other tools for network automation. \n",
     },
   ],
   education: [
