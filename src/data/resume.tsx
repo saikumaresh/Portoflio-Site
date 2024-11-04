@@ -45,7 +45,7 @@ export const DATA = {
       },
       Codechef: {
         name: "Codechef",
-        url: "https://www.codechef.com/users/saikumaresh007",
+        url: "https://www.codechef.com/users/saikumaresh",
         icon: Icons.codechef,
 
         navbar: true,
