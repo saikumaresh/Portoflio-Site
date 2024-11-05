@@ -246,5 +246,33 @@ export const DATA = {
       image: "/portfolio.gif",
       video: "",
     },
+    {
+      title: "ML based Cybersecurity Dashboard(In-Progress)",
+      href: "https://github.com/saikumaresh/MLBasedCyberSecurityDashboard",
+      dates: "October 2024 - November 2024",
+      active: true,
+      description:
+        "ML based Cybersecurity Dashboard(In-Progress)",
+      technologies: [
+        "Python",
+        "Machine Learning",
+        "Cybersecurity",
+        "HTML,CSS",
+        "JavaScript",
+        "Wireshark",
+        "ReactJS",
+        "Django",
+        "Docker",
+      ],
+      links: [
+        {
+          type: "Source",
+          href: "https://github.com/saikumaresh/MLBasedCyberSecurityDashboard",
+          icon: <Icons.github className="size-3" />,
+        },
+      ],
+      image: "/cybersec.gif",
+      video: "",
+    },
   ],
 } as const;
